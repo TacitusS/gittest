@@ -5,6 +5,7 @@ p {
     color: brown;
 }
 h1 {
-    font-size: larger; 
+    font-size: larger;
+    border: 1; 
     /*Мой комментарий*/ 
 }
